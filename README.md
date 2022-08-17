@@ -4,12 +4,8 @@
 
 <br/>
 
+ <img  src="./imgs/login_age.png" width="30%" />
 
 
-<p float="left">
-  <img  src="./imgs/login_age.png" width="100%" />
-  <p>treljgrke elkrgeşr ergşe</p>
-
-</p>
 
 
