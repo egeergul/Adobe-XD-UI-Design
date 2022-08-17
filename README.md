@@ -8,7 +8,7 @@
 
 <br/>
 <img  src="./imgs/login_name.png" width="30%" />
-<p>This is the first page of dign up pages. For a better user experience, I split the sign up pages and in each step, I wanted to explain why we need the asked information to help our users to understand what they are signing up to. /p>
+<p>This is the first page of dign up pages. For a better user experience, I split the sign up pages and in each step, I wanted to explain why we need the asked information to help our users to understand what they are signing up to. </p>
  
 <img  src="./imgs/login_fitness_level.png" width="30%" />
 <img  src="./imgs/login_mass_height.png" width="30%" />
