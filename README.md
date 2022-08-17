@@ -29,7 +29,7 @@
 <p>This is the exercise session page. When users press to one of the days in the home page, they are directed to the exercise of that day.</p>
 
 <br/> 
-<img  src="./imgs/exercise_detail.png" width="30%" />
+<img  src="./imgs/detail.png" width="30%" />
 <p>When users wants additional information about a specific exercise, they can press on it and the description and an explanatory video of the exercise will pop up.</p>
 
 <br/> 
